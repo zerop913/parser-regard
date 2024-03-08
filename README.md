@@ -1,1 +1,1 @@
-# parser-regard
+Парсинг товаров из интернет магазина https://www.regard.ru/
